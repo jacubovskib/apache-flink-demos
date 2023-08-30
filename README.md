@@ -34,5 +34,6 @@ Lembre-se de que os exemplos neste repositório são para fins educacionais e de
 
 Este repositório é fornecido sob a [licença XYZ](link-para-licenca). Certifique-se de ler e compreender a licença antes de usar ou contribuir para este projeto.
 
-**Autor:** Seu Nome
-**Contato:** seu.email@example.com
+**Autor:** Breno Jacubovski
+**Contato:** jacubovski.breno@outlook.com
+**Linkedin:** [https://www.linkedin.com/in/breno-jacubovski/](https://www.linkedin.com/in/breno-jacubovski/)
