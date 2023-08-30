@@ -30,9 +30,6 @@ Sinta-se à vontade para contribuir com novos exemplos, melhorias ou correções
 
 Lembre-se de que os exemplos neste repositório são para fins educacionais e de demonstração. Eles podem não estar otimizados para produção e podem precisar ser ajustados para atender aos requisitos específicos do seu ambiente.
 
-## Licença
-
-Este repositório é fornecido sob a [licença XYZ](link-para-licenca). Certifique-se de ler e compreender a licença antes de usar ou contribuir para este projeto.
 
 **Autor:** Breno Jacubovski
 **Contato:** jacubovski.breno@outlook.com
